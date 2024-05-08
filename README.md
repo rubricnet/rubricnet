@@ -2,8 +2,7 @@
 
 Paper in review. F. Author, S. Author, and T. Author, “Towards Explainable
 and Interpretable Musical Difficulty Estimation: A parameter-efficient
-approach”, in Proc. of the 25th Int. Society for Music Information Re-
-trieval Conf., San Francisco, USA, 2024
+approach”, in Proc. of the 25th Int. Society for Music Information Retrieval Conf., San Francisco, USA, 2024
 
 ## Disclaimer
 
