@@ -44,7 +44,7 @@ illustrate how building on top of past research can  offer alternatives for musi
 ### Directory Structure
 - **`checkpoints/`**: Contains model checkpoints.
 - **`features/`**: Stores different feature sets.
-  - **`rubricnet/`**:
-    - **`optuna_bayesian_optimization.py`**: Code used for training.
-    - **`interpretability.py`**: interpretability feedback and results on CIPI. 
-    - **`rubricnet.py`**: Main components of the RubricNet architecture and a class abstraction to use RubricNet as an sklearn model.
+- **`rubricnet/`**:
+ - **`optuna_bayesian_optimization.py`**: Code used for training.
+ - **`interpretability.py`**: interpretability feedback and results on CIPI. 
+ - **`rubricnet.py`**: Main components of the RubricNet architecture and a class abstraction to use RubricNet as an sklearn model.
